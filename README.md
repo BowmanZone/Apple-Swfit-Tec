@@ -72,4 +72,5 @@ self.init(name: name, photo: photo, rating: rating)
 As a convenience initializer, this initializer is required to call one of its class’s designated initializers before completing. As the initializer’s arguments, you pass in the values of the constants you created while archiving the saved data.
 //在解档中必须调用设计的主初始化器
 四：
-
+完成以上，进一步完善开发技能：
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Resources.html#//apple_ref/doc/uid/TP40015214-CH15-SW1
