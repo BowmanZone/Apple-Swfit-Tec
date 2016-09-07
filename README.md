@@ -4,16 +4,17 @@
 //TEST:git pull 2016-09-04 19:25
 
 一：
+基础语法swfit
 
 二：
 
-1.
+Assets.xcassets
 
-2.
-
-3.
-
-4.
+custom view：
+func initWithCoder() //从ib加载
+func layoutSubviews() //部署subViews
+func intrinsicContentSize()//加载内载内容大小，理解为初始化大小.与ib中的图形大小有关系
+//intrinsicContentSize 的ib属性设置中placeholder可以设置view的内在内容大小，在程序运行时的时候并不会起作用,只是在ib中的站位表示，除非使用代码func intrinsicContentSize()
 
 5.新建dataModel，并且进行测试unit test
 编写好模型数据后，可能存在边界情况没考虑到。
