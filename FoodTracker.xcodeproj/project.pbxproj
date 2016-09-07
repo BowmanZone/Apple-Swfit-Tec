@@ -159,6 +159,7 @@
 				TargetAttributes = {
 					270533881D7A67B3006A8B6B = {
 						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 2ZCLN8Y6QH;
 					};
 					2705339C1D7A67B3006A8B6B = {
 						CreatedOnToolsVersion = 7.3;
@@ -350,7 +351,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sean.MyFoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -362,7 +363,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.FoodTracker;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sean.MyFoodTracker;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
